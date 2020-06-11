@@ -60,12 +60,15 @@ Organizations:
 Capabilities:    
     Global: &ChannelCapabilities        
         V1_1: true
+        V1_4: true
     
     Orderer: &OrdererCapabilities        
         V1_1: true
+        V1_4: true
     
     Application: &ApplicationCapabilities        
         V1_2: true
+        V1_4: true
 
 ################################################################################
 #
